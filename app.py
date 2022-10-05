@@ -4,3 +4,4 @@ if True:
 else:
     print("hello world!")
     print("hello again!")
+    print("hello again!")
